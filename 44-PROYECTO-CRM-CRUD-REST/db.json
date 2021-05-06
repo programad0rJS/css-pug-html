@@ -1,0 +1,11 @@
+{
+  "clientes": [
+    {
+      "nombre": "josue",
+      "email": "josue@123",
+      "telefono": "2345",
+      "empresa": "5",
+      "id": 23
+    }
+  ]
+}
